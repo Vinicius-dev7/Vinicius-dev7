@@ -53,4 +53,5 @@
 
 <img src="https://raw.githubusercontent.com/Vinicius-dev7/Vinicius-dev7/output/snake.svg" alt="Snake animation" />
 
+
 ###
